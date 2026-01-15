@@ -17,7 +17,7 @@ public class Q4 {
         if (rev == n) {
             System.out.println("The number is a palindrome number!");
         } else {
-            System.out.println("The number is not a plaindrome number!");
+            System.out.println("The number is not a palindrome number!");
         }
     }
 }
